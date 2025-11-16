@@ -1,0 +1,15 @@
+INFO 2025-11-16 15:23:24,135 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:23:24,360 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:24:19,580 basehttp 213 "GET / HTTP/1.1" 200 12068
+INFO 2025-11-16 15:29:59,912 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:29:59,913 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:34:26,891 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:48:41,940 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 15:48:43,564 basehttp 213 "GET / HTTP/1.1" 200 12068
+INFO 2025-11-16 15:59:27,001 basehttp 213 "GET / HTTP/1.1" 200 12068
+INFO 2025-11-16 16:50:50,028 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 16:57:27,512 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 18:07:43,325 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 18:33:44,325 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 18:37:15,902 autoreload 667 Watching for file changes with StatReloader
+INFO 2025-11-16 18:37:17,870 basehttp 213 "GET / HTTP/1.1" 200 12068
